@@ -1,8 +1,8 @@
 Package: com.Lema.Michael.BetterGoogleWifi
 Name: BetterGoogleWifi
-Version: 0.1-1
-Description: 
-Section: System
+Version: 1.0
+Description: Change the Google Wifi Brightness manually!
+Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: 
 Replaces: 
