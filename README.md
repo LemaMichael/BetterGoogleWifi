@@ -1,5 +1,5 @@
 # BetterGoogleWifi
-Change the Google Wifi brightness level manually.
+Set the Google Wifi brightness level 
 
 <img src= "https://raw.githubusercontent.com/LemaMichael/BetterGoogleWifi/master/Assets/demo.PNG" height= 550>
 
